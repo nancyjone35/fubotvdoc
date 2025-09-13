@@ -1,4 +1,4 @@
-project = 'fubotvdoc'
+project = 'docfubotv'
 author = 'Your Name'
 release = '1.0'
 
